@@ -1,2 +1,2 @@
 # learngit
-This is my learn git repository
+This is a remote repository for learning git
