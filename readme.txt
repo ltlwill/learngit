@@ -6,3 +6,4 @@ at am 10:54
 add test branch
 git add branch is quick & simple
 add a branch dev
+fixed a bug
